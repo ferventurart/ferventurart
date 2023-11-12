@@ -11,7 +11,15 @@
 - ⭐ Github Star ⭐ 
 - 🖱️💻 Software Engineer
 - 🎥 Tengo algunos cursos sobre C# en [Youtube](https://youtube.com/@ferventurart?sub_confirmation=1) (+2.1k subs)
+
 <br>
+
+## Skills
+- 👨‍💻 C#, Javascript, PHP
+- 🦾 React, Svelte, Vue
+- 👁️ SASS, CSS
+- ☁️ Azure & AWS
+- 📕 SQL Server, MySQL, Postgres
 
 ## Mis cursos *recomendados*
 <table>
