@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.youtube.com/@ferventurart">Fernando Ventura</a> 👋</h1>
 </div>
-<img src="https://imgur.com/glJt5KJ">
+<img src="https://i.imgur.com/Tq39sdL.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCL7R2b-KgnM2gNXaeiY3QAw?style=social)](https://youtube.com/ferventurart?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/ferventurart?style=social&logo=github)](https://github.com/ferventurart)
