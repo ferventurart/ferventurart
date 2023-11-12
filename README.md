@@ -13,22 +13,22 @@
 - 🎥 Tengo algunos cursos sobre C# en [Youtube](https://youtube.com/@ferventurart?sub_confirmation=1) (+2.1k subs)
 <br>
 
-## Proyectos *bombitas*
+## Mis cursos *recomendados*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Curso de Clean Architecture con DDD & .NET 7</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ferventurart/EasyPOS" target="_blank"><img src="https://i.imgur.com/g03LIbJ.png" width="400" alt="Curso de Clean Architecture con DDD & .NET 7"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/ferventurart/EasyPOS" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://youtu.be/hCG38mYnrMc?si=n5ST9skvfAJLkU18" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>En este curso aprenderas como crear un proyecto tipo Clean Architecture con .NET 7, .NET Core e implementando Domain-Driven Design. Lo mejor es que es <b>100% en espanol</b> y explicado de una forma sencilla para que puedas comprender facilmente como se junta la teoria y la practica.😀 Espero lo disfrutes.</p>
 </div>
                                                                                       
 </td>
