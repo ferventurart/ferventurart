@@ -3,9 +3,9 @@
 </div>
 <img src="https://imgur.com/glJt5KJ">
 
-[![YouTube Channel Subscribers]([https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/ferventurart?sub_confirmation=1](https://img.shields.io/youtube/channel/subscribers/UCL7R2b-KgnM2gNXaeiY3QAw
-))
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCL7R2b-KgnM2gNXaeiY3QAw?style=social)](https://youtube.com/ferventurart?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ferventurart)
+
 
 ## Sobre mi
 
