@@ -47,7 +47,9 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Curso básico de programación con C# explicando <strong>el paradigma</strong> de Programacion Orientada a Objetos.</p>
+</p>En este curso aprenderas como y de que se trata la de programación orientada a objetos con C#. Con ejemplos simples te explicare los conceptos basicos
+para que puedas dominar este tema y subas tus skills en desarrollo de software. Animate y sigue este curso para que veas como este paradigma nos permite
+escribir codigo limpio y que ventaja nos trae a los desarrolladores.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
