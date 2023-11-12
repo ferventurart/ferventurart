@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.youtube.com/@ferventurart">Fernando Ventura</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/ferventurart/">Fernando Ventura</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/Tq39sdL.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCL7R2b-KgnM2gNXaeiY3QAw?style=social)](https://youtube.com/ferventurart?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/ferventurart?style=social&logo=github)](https://github.com/ferventurart)
-
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ferventurart/)
 
 ## Sobre mi
 - ⭐ Github Star ⭐ 
