@@ -35,7 +35,7 @@
 
 <td width="50%">
 <br>
-<h3 align="center">Programacion Orientada a Objetos</h3>
+<h3 align="center">Programacion Orientada a Objetos con C#</h3>
 <div align="center">                                       
 <a href="https://github.com/ferventurart/POO" target="_blank"><img src="https://i.imgur.com/qrVi6im.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
