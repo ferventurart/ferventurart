@@ -16,7 +16,7 @@
 
 ## Skills
 - 👨‍💻 C#, Javascript, PHP
-- 🦾 React, Svelte, Vue
+- 🦾 Angular, React, Svelte, Vue
 - 👁️ SASS, CSS
 - ☁️ Azure & AWS
 - 📕 SQL Server, MySQL, Postgres
