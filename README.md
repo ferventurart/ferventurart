@@ -6,7 +6,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCL7R2b-KgnM2gNXaeiY3QAw?style=social)](https://youtube.com/@ferventurart?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/ferventurart?style=social&logo=github)](https://github.com/ferventurart)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/ferventurart/)
-[![VSA]](https://blog.ndepend.com/wp-content/uploads/net-vertical-slice-architecture.png)
+![VSA](https://blog.ndepend.com/wp-content/uploads/net-vertical-slice-architecture.png)
 
 ## Sobre mi
 - ⭐ Github Star ⭐ 
