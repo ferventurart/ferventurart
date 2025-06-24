@@ -10,7 +10,7 @@
 ## Sobre mi
 - ⭐ Github Star ⭐ 
 - 🖱️💻 Software Engineer
-- 🎥 Tengo algunos cursos sobre C# en [Youtube](https://youtube.com/@ferventurart?sub_confirmation=1) (+2.1k subs)
+- 🎥 Tengo algunos cursos sobre C# en [Youtube](https://youtube.com/@ferventurart?sub_confirmation=1) (+3.2k subs)
 
 <br>
 
